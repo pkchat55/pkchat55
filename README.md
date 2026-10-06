@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:7D64FF&height=200&section=header&text=Pravin%20Chaturvedi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Product%20%2F%20Tech%20Pro%20Engineer&descAlignY=58&descSize=20" width="100%" alt="banner"/>
 
+<img src="https://images.weserv.nl/?url=github.com/pkchat55.png&w=180&h=180&fit=cover&mask=circle&maxage=7d" width="140" height="140" alt="Pravin Chaturvedi" style="margin-top:-70px;border:4px solid white;border-radius:50%;"/>
+
 <a href="https://www.linkedin.com/in/pravin-chaturvedi-19444851/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7D64FF&center=true&vCenter=true&width=600&lines=AI+Product+%2F+Tech+Pro+Engineer;Building+quality+engineering+systems;Performance+Testing+with+k6+%2B+Grafana;AI-Agent+based+Test+Automation;LLM+Evaluation+with+DeepEval" alt="Typing SVG"/></a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pravin-chaturvedi-19444851/)
