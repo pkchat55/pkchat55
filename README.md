@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:7D64FF&height=200&section=header&text=Pravin%20Chaturvedi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20SDET%20%E2%80%A2%20Performance%20Engineer%20%E2%80%A2%20AI%20Test%20Automation&descAlignY=58&descSize=20" width="100%" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:7D64FF&height=200&section=header&text=Pravin%20Chaturvedi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Product%20%2F%20Tech%20Pro%20Engineer&descAlignY=58&descSize=20" width="100%" alt="banner"/>
 
-<a href="https://www.linkedin.com/in/pravin-chaturvedi-19444851/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7D64FF&center=true&vCenter=true&width=600&lines=Building+quality+engineering+systems;Performance+Testing+with+k6+%2B+Grafana;AI-Agent+based+Test+Automation;LLM+Evaluation+with+DeepEval" alt="Typing SVG"/></a>
+<a href="https://www.linkedin.com/in/pravin-chaturvedi-19444851/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7D64FF&center=true&vCenter=true&width=600&lines=AI+Product+%2F+Tech+Pro+Engineer;Building+quality+engineering+systems;Performance+Testing+with+k6+%2B+Grafana;AI-Agent+based+Test+Automation;LLM+Evaluation+with+DeepEval" alt="Typing SVG"/></a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pravin-chaturvedi-19444851/)
 [![GitHub followers](https://img.shields.io/github/followers/pkchat55?label=Follow&style=social)](https://github.com/pkchat55)
